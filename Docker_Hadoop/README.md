@@ -1,7 +1,8 @@
 # 利用Docker配置Hadoop集群
 
-[1]: https://github.com/kiwenlau/hadoop-cluster-docker	"项目地址"
-[2]: https://www.bilibili.com/video/BV1M541157Mn?spm_id_from=333.337.search-card.all.click	"B站视频"
+***[1]https://github.com/kiwenlau/hadoop-cluster-docker  项目地址***
+
+***[2]https://www.bilibili.com/video/BV1M541157Mn?spm_id_from=333.337.search-card.all.click B站视频***
 
 该文件夹下只有这一个README.md文件，记录相关的知识点，在后续的使用中，若发现有用得上的相关知识点都会更新进来。
 
